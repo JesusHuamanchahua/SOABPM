@@ -1,2 +1,5 @@
-nombre
-apellidos
+Nombre
+Apellidos
+
+Edad
+DNI
